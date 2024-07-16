@@ -1,7 +1,7 @@
 # myforum
 
 ## Apresentação:
-Esta aplicação tem como objetivo completar o desafio Alura Oracle de desenvolver uma API básica de forum.
+Esta aplicação tem como objetivo completar o desafio Alura Oracle One de desenvolver uma API básica de forum.
 
 ### Tecnologias:
 * Java 17
